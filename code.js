@@ -18,8 +18,8 @@
             ticks: { color: "#e2e8f0" },
             grid: { color: "#334155" },
             ticks: {
-                    display: false,
-                    stepSize: 0.2
+                    
+                    stepSize: 0.250
                   }
             
            
@@ -151,3 +151,4 @@
 
     // Initialize with one default stint
     addStint();
+
